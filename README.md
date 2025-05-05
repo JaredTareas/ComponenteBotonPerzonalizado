@@ -3,6 +3,7 @@ Boton bonito con un diseño agradable y totalmente funcional para proyectos
 Es un componente personalizado de botón en Java Swing que ofrece un diseño atractivo y animacion interactica. Este botón incluye características como iconos personalizables, efectos de hover al pasar el mause, animaciones de clic,degradados y reproducción de sonidos al hacer clic.
 
 Características
+
 Iconos Personalizables: Puedes cambiar el icono del botón utilizando una lista de iconos predefinidos.
 Efectos de Hover: El botón cambia de color suavemente cuando el mouse está sobre él.
 Animaciones de Clic: El botón tiene una animación de rebote al ser presionado.
