@@ -90,6 +90,13 @@ García García Luis Jared
 Bautista Ramirez Amisadai Zuriel 
 
 
+Enlace del video de como funciona el componente 
+
+https://youtu.be/pNqmneO_TM4
+
+
+
+
 
 
 
