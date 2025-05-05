@@ -26,7 +26,15 @@ en la paleta de componentes de nuestro jframeForm dar click derecho y nos vamos 
 ![image](https://github.com/user-attachments/assets/ea231479-a1b8-4865-9fe5-a9bb006df226)
 
 luego añadimos nuestro archivo .jar que se encuentra en la carpeta dist del proyecto componente el archivo se llama "botonBonito.jar"
-![image](https://github.com/user-attachments/assets/c0ae2329-152e-436f-bb82-fe11b7a8e600) y solo le damos next y lo agregamos en el lugar que nos acomodemos mas
+![image](https://github.com/user-attachments/assets/c0ae2329-152e-436f-bb82-fe11b7a8e600) 
+y solo le damos next y lo agregamos en el lugar que nos acomodemos mas
+
+
+comparacion de nuestro boton con un boton normal, se nota mucho la diferencia 
+
+![image](https://github.com/user-attachments/assets/0a06c61b-7b6c-474e-ac96-9098cbe0e568)
+
+
 
 Métodos y Propiedades Relevantes
 Métodos
