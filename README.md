@@ -37,35 +37,59 @@ comparacion de nuestro boton con un boton normal, se nota mucho la diferencia
 
 
 Métodos y Propiedades Relevantes
+
 Métodos
 cambiarIcono(int indice): Cambia el icono del botón según el índice dado.
+
 cambiarSonido(int indice): Cambia el sonido que se reproduce al hacer clic según el índice dado.
+
 setRutaSonido(String rutaSonido): Establece una ruta de sonido personalizada para la reproducción.
+
 setSonidoActivo(boolean sonidoActivo): Activa o desactiva la reproducción de sonidos.
 
 
+
 Propiedades
+
 getColorInicio(): Obtiene el color de inicio del gradiente.
+
 setColorInicio(Color colorInicio): Establece el color de inicio del gradiente.
+
 getColorFin(): Obtiene el color final del gradiente.
+
 setColorFin(Color colorFin): Establece el color final del gradiente.
+
 getColorFinHover(): Obtiene el color final del gradiente al hacer hover.
+
 setColorFinHover(Color colorFinHover): Establece el color final del gradiente al hacer hover.
+
 getRadioBorde(): Obtiene el radio de los bordes redondeados.
+
 setRadioBorde(int radioBorde): Establece el radio de los bordes redondeados.
 
 
+
 Requisitos
+
 Java Development Kit (JDK) 8 o superior.
+
 Bibliotecas de Java Swing.
 
 
+
 Créditos del equipo
+
 Este componente fue elaborado por el equipo numero 7
+
 en la asignatura de topicos avanzados de programación, dirigida por la profesora - Martinez Nieto Adelina
+
 integrantes del equipo:
+
 García García Luis Jared
+
 Bautista Ramirez Amisadai Zuriel 
+
+
 
 
 
