@@ -5,13 +5,20 @@ Es un componente personalizado de botón en Java Swing que ofrece un diseño atr
 Características
 
 Iconos Personalizables: Puedes cambiar el icono del botón utilizando una lista de iconos predefinidos.
+
 Efectos de Hover: El botón cambia de color suavemente cuando el mouse está sobre él.
+
 Animaciones de Clic: El botón tiene una animación de rebote al ser presionado.
+
 Reproducción de Sonidos: Puedes reproducir sonidos personalizados al hacer clic en el botón.
+
 Colores Personalizables: Permite personalizar los colores de fondo y el radio de los bordes.
 
+
 Instrucciones de Uso
+
 crear un nuevo proyecto 
+
 crear un jframeForm 
 ![image](https://github.com/user-attachments/assets/5e52a423-26a5-4f94-a1e2-6b737d267c5a)
 
